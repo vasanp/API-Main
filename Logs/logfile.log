@@ -1,0 +1,80 @@
+2022-08-02 19:03:28,154--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-02 19:03:29,765--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-02 19:04:11,876--||--INFO-||-UserHelper--||--create_user--||--user Created
+2022-08-02 19:04:13,823--||--INFO-||-UserHelper--||--login_user--||--user validated
+2022-08-02 19:04:15,769--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-22 22:24:23,772--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-22 22:24:26,036--||--INFO-||-UserHelper--||--login_user--||--user validated
+2022-08-22 22:24:28,114--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 08:35:11,258--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 08:35:16,129--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 08:35:19,348--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:35:20,971--||--INFO-||-UserHelper--||--login_user--||--user validated
+2022-08-23 08:35:22,625--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 08:35:25,697--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:35:27,130--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 08:37:05,540--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 08:37:10,098--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 08:37:12,974--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:37:14,559--||--INFO-||-UserHelper--||--login_user--||--user validated
+2022-08-23 08:37:16,089--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 08:37:18,955--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:37:20,219--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 08:42:45,110--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 08:42:49,718--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 08:42:52,585--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:42:54,224--||--INFO-||-UserHelper--||--login_user--||--user validated
+2022-08-23 08:42:55,759--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 08:42:58,818--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:43:00,252--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 08:55:37,900--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 08:55:42,567--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 08:55:45,272--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:55:46,573--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 08:55:48,043--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 08:55:49,511--||--INFO-||-TestBackupTasks--||--test_backup_all_tasks--||--Backup successfully completed!
+2022-08-23 08:55:50,647--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:55:51,986--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 08:57:54,247--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 08:57:59,095--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 08:58:02,401--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:58:03,705--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 08:58:05,409--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 08:58:07,540--||--INFO-||-TestBackupTasks--||--test_backup_all_tasks--||--Backup successfully completed!
+2022-08-23 08:58:08,789--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 08:58:10,222--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 10:22:08,551--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 10:22:13,387--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 10:22:16,505--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 10:22:17,893--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 10:22:19,399--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 10:22:21,539--||--INFO-||-TestBackupTasks--||--test_backup_all_tasks--||--Backup successfully completed!
+2022-08-23 10:22:22,582--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 10:22:24,014--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 10:24:59,997--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 10:25:04,708--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 10:25:06,860--||--INFO-||-TestAddTMultipleTask--||--test_validate_all_input--||--validated 20 inputs!
+2022-08-23 10:25:08,047--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 10:25:09,418--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 10:25:11,057--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 10:25:13,160--||--INFO-||-TestBackupTasks--||--test_backup_all_tasks--||--Backup successfully completed!
+2022-08-23 10:25:14,334--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 10:25:15,612--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 10:30:38,133--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 10:30:42,815--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 10:30:44,814--||--INFO-||-TestAddTMultipleTask--||--test_validate_all_input--||--validated 20 inputs!
+2022-08-23 10:30:45,851--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 10:30:47,114--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 10:30:48,632--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 10:30:50,643--||--INFO-||-TestBackupTasks--||--test_backup_all_tasks--||--Backup successfully completed!
+2022-08-23 10:30:51,669--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 10:30:53,118--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 10:56:17,179--||--INFO-||-TestAddTMultipleTask--||--test_add_multiple_tasks--||--20 tasks added successfully!
+2022-08-23 10:56:21,890--||--INFO-||-TestAddTMultipleTask--||--test_pagination--||--Pagination working successfully!
+2022-08-23 10:56:23,939--||--INFO-||-TestAddTMultipleTask--||--test_validate_all_input--||--validated 20 inputs!
+2022-08-23 10:56:25,164--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 10:56:26,513--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
+2022-08-23 10:56:28,097--||--INFO-||-TestAddTask--||--test_add_single_task--||--One task successfully added!
+2022-08-23 10:56:30,208--||--INFO-||-TestBackupTasks--||--test_backup_all_tasks--||--Backup successfully completed!
+2022-08-23 10:56:31,311--||--INFO-||-UserHelper--||--create_user--||--user already exists
+2022-08-23 10:56:32,667--||--INFO-||-UserHelper--||--login_user--||--unable to login, please create account
